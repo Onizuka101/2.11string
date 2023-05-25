@@ -1,0 +1,7 @@
+GET http://localhost:8080/store/order/add?id=1&id=2&id3
+
+###
+GET http://localhost:8080/store/order/add?id=4,5,6
+
+###
+GET http://localhost:8080/store/order/get
